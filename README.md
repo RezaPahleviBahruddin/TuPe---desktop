@@ -42,6 +42,7 @@ The `express-app` folder is just a vanilla Express generated app using
 
 Frank Hale &lt;frankhale@gmail.com&gt;  
 27 September 2016
+Reza Pahlevi Bahruddin
 
 ## License
 
